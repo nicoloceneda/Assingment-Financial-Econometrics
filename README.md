@@ -2,14 +2,25 @@
 
 *Authors*: Nicolo Ceneda, Claire Fromholz, Pietro Gnecco \
 *Contact*: nicolo.ceneda@student.unisg.ch \
+*Website*: [www.nicoloceneda.com](http://www.nicoloceneda.com) \
 *Institution*: University of St Gallen \
 *Course*: Financial Econometrics \
 *Lecturer*: Prof. Paul Soderlind \
-*Last update*: 22 May 2018
+*Last update*: 2 March 2020
 
 ## Content Description
+<pre>
+│
+├── hw1 <-- Taking a look at your data
+│
+├── hw2 <-- Regressions and more
+│
+├── hw3 <-- Predicting asset returns
+│
+└── hw4 <-- Non-parametric estimation and MLE
+<pre>
 
-This repository contains four directories *hwX*, each of which contains the following items:
-* *homework_X.pdf*: the list of tasks to execute
-* *CenedaFromholzGneccoHWX.pdf*: the written answer sheet
-* *code*: the directory containing the R code and the data
+Each directory contains the following items:
+* *homework_X.pdf*: list of tasks to execute
+* *CenedaFromholzGneccoHWX.pdf*: written answer sheet
+* *code*: directory containing the R code and the data
