@@ -9,7 +9,7 @@
 *Last update*: 2 March 2020
 
 ## Content Description
-<pre>
+</pre>
 │
 ├── hw1 <-- Taking a look at your data
 │
@@ -18,7 +18,7 @@
 ├── hw3 <-- Predicting asset returns
 │
 └── hw4 <-- Non-parametric estimation and MLE
-<pre>
+</pre>
 
 Each directory contains the following items:
 * *homework_X.pdf*: list of tasks to execute
