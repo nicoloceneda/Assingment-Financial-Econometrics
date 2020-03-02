@@ -4,7 +4,7 @@
 *Contact*: nicolo.ceneda@student.unisg.ch \
 *Website*: [www.nicoloceneda.com](http://www.nicoloceneda.com) \
 *Institution*: University of St Gallen \
-*Course*: Financial Econometrics \
+*Course*: Financial Econometrics (Master of Banking and Finance) \
 *Lecturer*: Prof. Paul Soderlind \
 *Last update*: 2 March 2020
 
