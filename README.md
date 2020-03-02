@@ -1,4 +1,4 @@
-# Financial Econometrics Assignments
+# Assignments Financial Econometrics 
 
 *Authors*: Nicolo Ceneda, Claire Fromholz, Pietro Gnecco \
 *Contact*: nicolo.ceneda@student.unisg.ch \
