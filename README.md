@@ -9,7 +9,7 @@
 *Last update*: 2 March 2020
 
 ## Content Description
-</pre>
+<pre>
 │
 ├── hw1 <-- Taking a look at your data
 │
